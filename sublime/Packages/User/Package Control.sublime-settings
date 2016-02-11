@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Can I Use",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"Markdown Extended",
+		"Package Control",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Afterglow"
+	]
+}
