@@ -26,4 +26,5 @@ done
 
 if [[ `uname` == 'Darwin' ]]; then
   link "$dotfiles/sublime/Packages/" "$HOME/Library/Application Support/Sublime Text 3/Packages/"
+  link "$dotfiles/home/config" "$HOME/.ssh/config"
 fi

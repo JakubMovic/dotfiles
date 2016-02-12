@@ -1,0 +1,24 @@
+Host ond-jakubmovic
+   HostName 178.19.105.170
+   Port 57185
+   User jakubmovic
+
+Host ond-root
+   HostName 178.19.105.170
+   Port 57185
+   User root
+
+Host dcn-root
+   HostName 46.105.25.191
+   User root
+
+# VPS, na ktorym jest time.reddragon.media
+Host rdm-vps783
+   HostName vps121783.ovh.net
+   User root
+
+# VPS, na którym jest git.reddragon.media
+Host rdm-vps977
+   HostName vps154977.ovh.net
+   User root
+
