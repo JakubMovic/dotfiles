@@ -22,3 +22,9 @@ Host rdm-vps977
    HostName vps154977.ovh.net
    User root
 
+# s001.co-enterprise.pro
+    Host s001.co-enterprise.pro
+    HostName 149.202.72.106
+    User movic
+
+
