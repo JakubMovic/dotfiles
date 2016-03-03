@@ -39,7 +39,7 @@
 	"material_theme_small_statusbar": true,
 	"save_on_focus_lost": false,
 	"side_bar_width": 220,
-	"sidebar_no_icon": true,
+	"sidebar_no_icon": false,
 	"sidebar_row_padding_medium": true,
 	"sidebar_size_10": true,
 	"status_bar_brighter": true,
